@@ -3,7 +3,7 @@
 - 🌱 Actualmente me encuentro trabajando en mis propios proyectos y capacitandome.
 - 💞️ Participe en NotCountry, creando un proyecto Full Stack con React.
 - 📫 Me pueden contatar en daianatrinidadpuig@gmail.com
-- ⚡ Linkedin : 
+- ⚡ Linkedin : https://www.linkedin.com/in/dtrinidad-puig
 
 <!---
 DaianaTrinidad/DaianaTrinidad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
